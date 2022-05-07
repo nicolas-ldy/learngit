@@ -1,2 +1,4 @@
 Hello Github!
 Hello Gitlab!
+Hello Gitee!
+Hello Bug!

@@ -1,3 +1,3 @@
 Hello Git!
 Creating a new branch is quick.
-Creating a new brancn is quich & simple.
+Creating a new branch is quich and simple.
